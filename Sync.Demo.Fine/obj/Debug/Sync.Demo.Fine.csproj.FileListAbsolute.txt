@@ -1,0 +1,13 @@
+E:\test\share\Sync.Demo\Sync.Demo.Fine\bin\Debug\Sync.Demo.Fine.exe.config
+E:\test\share\Sync.Demo\Sync.Demo.Fine\bin\Debug\Sync.Demo.Fine.exe
+E:\test\share\Sync.Demo\Sync.Demo.Fine\bin\Debug\Sync.Demo.Fine.pdb
+E:\test\share\Sync.Demo\Sync.Demo.Fine\obj\Debug\Sync.Demo.Fine.csprojAssemblyReference.cache
+E:\test\share\Sync.Demo\Sync.Demo.Fine\obj\Debug\Sync.Demo.Fine.FInterlocked.resources
+E:\test\share\Sync.Demo\Sync.Demo.Fine\obj\Debug\Sync.Demo.Fine.Form1.resources
+E:\test\share\Sync.Demo\Sync.Demo.Fine\obj\Debug\Sync.Demo.Fine.Properties.Resources.resources
+E:\test\share\Sync.Demo\Sync.Demo.Fine\obj\Debug\Sync.Demo.Fine.csproj.GenerateResource.cache
+E:\test\share\Sync.Demo\Sync.Demo.Fine\obj\Debug\Sync.Demo.Fine.csproj.CoreCompileInputs.cache
+E:\test\share\Sync.Demo\Sync.Demo.Fine\obj\Debug\Sync.Demo.Fine.exe
+E:\test\share\Sync.Demo\Sync.Demo.Fine\obj\Debug\Sync.Demo.Fine.pdb
+E:\test\share\Sync.Demo\Sync.Demo.Fine\obj\Debug\Sync.Demo.Fine.FMonitor.resources
+E:\test\share\Sync.Demo\Sync.Demo.Fine\obj\Debug\Sync.Demo.Fine.FManualResetEvent.resources
